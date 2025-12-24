@@ -103,4 +103,6 @@ Analysis like fat content preferences or average ratings can inform product rang
 
 
 Link for the project: https://github.com/Deepak-s-hub/Power_BI_dashboard_Project.git
+
+
 Screenshot of the Dashboard: <img width="1276" height="718" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/9dea5c51-8155-4d42-b06a-5833c525e82e" />
